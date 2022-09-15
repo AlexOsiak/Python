@@ -3,7 +3,7 @@
 Interactive dashboard created in python using border traffic dataset. 
 
 
-To serve the dashboard locally, use the command:
+> To serve the dashboard locally, use the command:
 >> *panel serve UA_border_traffic.ipynb*
 
 
